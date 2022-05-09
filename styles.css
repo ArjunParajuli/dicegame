@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+}
+
+h1{
+    font-family: monospace;
+    color: red;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellowgreen;
+}
